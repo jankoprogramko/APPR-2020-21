@@ -235,7 +235,8 @@ Zadnji graf nekako površno primerja naše metode, iz tega grafa in izračunov k
 graf_vseh_zglajenih_predikcij1
 ```
 
-<br><br>  
+<br><br>
+
 ***
 
 # Aplikacija v Shiny-ju
